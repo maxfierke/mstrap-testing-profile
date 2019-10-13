@@ -1,0 +1,10 @@
+---
+package_globals:
+  gems: []
+  npm: []
+  pip: []
+projects:
+  - name: testing a thing
+    cname: testing-a-thing
+    repo: https://github.com/maxfierke/testing-a-thing.git
+
