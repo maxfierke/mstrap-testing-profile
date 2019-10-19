@@ -2,7 +2,8 @@
 package_globals:
   gems: []
   npm: []
-  pip: []
+  pip:
+    - name: ansible
 projects:
   - name: testing a thing
     cname: testing-a-thing
